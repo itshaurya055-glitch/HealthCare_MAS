@@ -22,6 +22,10 @@ while True:
         break
     if q:
         answer = ask(q, PATIENT_ID)
-        print("\n🤖 Assistant:")
+        print("Your assistent)
         print(answer)
         print("-" * 40)
+
+
+
+        
